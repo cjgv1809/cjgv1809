@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Carlos Gomes, I'm 29 years old and I'm Jr Web developer and QA Tester Analyst living in Caba, Buenos Aires. Currently I'm looking for new opportunities in IT industry where I can develop my skills and make a career as a such.
+## My name is Carlos Gomes, I'm 30 years old and I'm Jr Web developer and QA Tester Analyst living in Caba, Buenos Aires. Currently I'm looking for new opportunities in IT industry where I can develop my skills and make a career as a such.
 
 - 🔭 I’m currently working on mastering ReactJs and all its frameworks(Gatsby, Next). You will be see some projects(most of them clones of famous tech brandings) made with React and Firebase, where this last tech may be used as database, authentication system and as a hosting.
 
