@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on mastering ReactJs and all its frameworks(Gatsby, Next). You will be see some projects(most of them clones of famous tech brandings) made with React and Firebase, where this last tech may be used as database, authentication system and as a hosting.
 
-- 🌱 I’m currently learning Python and its frameworks(especially Django)
+- 🌱 I’m currently learning React Native(Mobile development) and starting to get interested in web 3.0
 
 - 📫 How to reach me: If you are looking for candidates or maybe collaboration in any project, you can find me in Linkedin as: https://www.linkedin.com/in/carlosgomesvallejo
 
