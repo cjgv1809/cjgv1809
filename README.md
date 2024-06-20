@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there,
 
 ## My name is Carlos Gomes. I'm a Frontend Web/mobile developer and QA Tester Analyst living in Caba, Buenos Aires. Currently, I'm looking for new opportunities in the IT industry where I can develop my skills and make a career.
 
